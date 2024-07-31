@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=louispartridge-dotdev.louispartridge-dotdev" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=louiswalpurgis-dotdev.louiswalpurgis-dotdev" />
 
-<a align="left" href="https://github.com/louispartridge-dotdev/louispartridge-dotdev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&width=500&height=70&lines=👋+Hi,+I’m+@louispartridge" alt="@louispartridge-dotdev" /></a>
+<a align="left" href="https://github.com/louiswalpurgis-dotdev/louiswalpurgis-dotdev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&width=500&height=70&lines=👋+Hi,+I’m+@louiswalpurgis" alt="@louiswalpurgis-dotdev" /></a>
 
-**I'm partridge** - I'm a full-stack developer and designer living in a small town. I’m passionate about development, research, and building high-quality products. During my free time, I often work on random projects.
+**I'm walpurgis** - I'm a full-stack developer and designer living in a small town. I’m passionate about development, research, and building high-quality products. During my free time, I often work on random projects.
 
 [![SkillIcons](https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwindcss,git,nodejs,javascript,express,mongodb,postgresql,mysql)](https://skillicons.dev)<br/>
 
@@ -13,8 +13,8 @@
 <details>
   <summary>Github Stars ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=louispartridge-dotdev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louispartridge-dotdev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=louiswalpurgis-dotdev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louiswalpurgis-dotdev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 <picture>
