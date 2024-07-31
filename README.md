@@ -11,10 +11,10 @@
 [^ These icons are one of my projects!](https://github.com/tandpfun/skill-icons)
 
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stars ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=swliqor-dotdev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swliqor-dotdev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=louispartridge-dotdev&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louispartridge-dotdev&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
 
 <picture>
