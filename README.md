@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=louiswalpurgis-dotdev.louiswalpurgis-dotdev" />
 
-<a align="left" href="https://github.com/louiswalpurgis-dotdev/louiswalpurgis-dotdev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FFFFFF&width=500&height=70&lines=👋+Hi,+I’m+@louiswalpurgis" alt="@louiswalpurgis-dotdev" /></a>
+<a align="left" href="https://github.com/louiswalpurgis-dotdev/louiswalpurgis-dotdev"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&width=500&height=70&lines=👋+Hi,+I’m+@louiswalpurgis" alt="@louiswalpurgis-dotdev" /></a>
 
 **I'm walpurgis** - I'm a full-stack developer and designer living in a small town. I’m passionate about development, research, and building high-quality products. During my free time, I often work on random projects.
 
