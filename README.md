@@ -4,7 +4,7 @@
 
 **I'm walpurgis** - I'm a full-stack developer and designer living in a small town. I’m passionate about development, research, and building high-quality products. During my free time, I often work on random projects.
 
-[![SkillIcons](https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwindcss,git,nodejs,javascript,express,mongodb,postgresql,mysql)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=react,nextjs,html,css,vscode,github,figma,tailwindcss,git,nodejs,javascript,typescript,express,mongodb,postgresql,mysql)](https://skillicons.dev)<br/>
 
 <!-- icons?i=react,nextjs,vite,html,css,vscode,github,figma,tailwindcss,git,nodejs,python,javascript,typescript,express,firebase,mongodb,java,postgresql,mysql,flask -->
 
